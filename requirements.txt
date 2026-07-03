@@ -1,0 +1,15 @@
+qdrant-client
+sentence-transformers
+langchain
+langchain_groq
+gradio
+huggingface_hub
+pywin32; platform_system == "Windows"
+python-dotenv
+pymupdf
+python-docx 
+pytesseract 
+pdf2image 
+pillow
+pypdf
+jsonlines
