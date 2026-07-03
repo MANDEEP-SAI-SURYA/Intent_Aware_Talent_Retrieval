@@ -11,6 +11,7 @@ RAG/__pycache__
 Environment
 RAG/qdrant_d_b/
 RAG/qdrant_d_b.zip
+qdrant_d_b
 data/data2/candidates.jsonl
 
 # Qdrant
